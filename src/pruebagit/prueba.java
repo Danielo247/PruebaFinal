@@ -6,6 +6,8 @@ public class prueba {
 		
 		
 		System.out.println("Probando");
+		
+		String nombre = "Daniel";
 
 	}
 
